@@ -47,8 +47,8 @@ Entrada	                   saida
 Joao                       Conta Poupanca:
 123456                     Joao
 1000.0                     123456
-1.5	                   Saldo: R$ 1000.0
-                           Taxa de juros: 1.5%
+1.5	                       Saldo: R$ 1000.0
+//                         Taxa de juros: 1.5%
 
 
 entrada 
@@ -58,8 +58,7 @@ Ana
 3.0	
 
 Saida
-Conta Poupanca:
-Ana
+Conta Poupanca: Ana
 789012
 Saldo: R$ 2500.0
 Taxa de juros: 3.0%
@@ -71,8 +70,7 @@ Maria
 2.5
 
 saida
-Conta Poupanca:
-Maria
+Conta Poupanca:Maria
 987654
 Saldo: R$ 500.0
 Taxa de juros: 2.5%
